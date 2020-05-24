@@ -1,0 +1,8 @@
+Refer to the activity. Read both parts of the question and provide answers for both.
+
+Part1. What type of information were you able to gain in user EXEC mode?
+
+Part 2. What do you think should be done to prevent this type of information from being viewed by unauthorized users?
+
+(1)Information from the 'show' command in user EXEC mode is: arp Arp table - CDP CDP information - clock Display the system clock - DTP DTP information - EtherChannel EtherChannel information - flash: display information about flash: file system - mac MAC configuration - IP IP information- ssh Status of SSH server connections - IOS image and file information - technology packages enabled on the device - VLAN VTP VLAN status - lldp LLDP information - terminal Display terminal information about terminal lines. - version System hardware and software status
+(2)to prevent this type of information from being viewed by unauthorized users we need to  Restrict physical access to routers and routers. Change the default security settings, Passwords, authentication. We should enable authentication or the mac address filtering for allowing only registered users able to access and we can troubleshoot it as well.

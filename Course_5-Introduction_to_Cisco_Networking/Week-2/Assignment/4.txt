@@ -1,0 +1,4 @@
+Refer to the activity. When you access the router through the Terminal program, how are are you accessing the router? (Include in your response the port used and whether it is In-band management, out-of-band management, or through the network.)
+
+ We can access the router through the terminal by following  :$Desktop - terminal - s1>enable #configure terminal (port configuration: bits per second 9600, data bits 8) out-Of-band management via console port.
+The router was accessed through the physical router port.

@@ -1,0 +1,3 @@
+What are the two key settings that had to be configured on each host to allow for connectivity in this peer-to-peer network?
+
+IP address and Subnet Mask

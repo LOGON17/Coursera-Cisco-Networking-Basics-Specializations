@@ -1,0 +1,10 @@
+Identify at least two pros and two cons of this security tool.
+
+Advantages:
+The latest version of Windows Defender is an improvement on previous Windows developed anti virus programs and cloud protection, a new addition in terms of security features.
+It comes as a default protection in Windows 10 which means your computer has some protection as soon as Windows 10 is installed.
+Windows Defender is a worthy, free solution for safeguarding your computer against viruses and other malware. To some extent, it even outperforms a couple of paid third-party antivirus suites.
+
+Disadvantages:
+According to test results from many independent lab Windows Defender scores only 9.5 points out of a total of 18 points with many other protection programs scoring much higher.It is argued that Windows Defender takes up a lot of system resources.
+it does not compete with paid-for antivirus solutions. Independent organizations have regularly shown that what Windows Defender has is inept and unsatisfactory.

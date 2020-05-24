@@ -1,0 +1,5 @@
+Refer to the activity. What is the IP address of the GigabitEthernet 0/0 interface. (Hint: It is in the output of several of the show commands.) Why is this address important to the network? What is the routers relationship to the ISP PC?
+
+the IP address of the GigabitEthernet 0/0 interface: 209.165.201.1
+The importance of this address is that The ISP router is the default gateway for the ISP PC.
+The isp pc also appears to be connected to the ISP router via a switch, so it should be able to access the router via telnet, ssh,http.If not restricted by some configuration of the IOS of the router. The router's relationship the ISP PC is console relationship to provide access to the configuration of the router.

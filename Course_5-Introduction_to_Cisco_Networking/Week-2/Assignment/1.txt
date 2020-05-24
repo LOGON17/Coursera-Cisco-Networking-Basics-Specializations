@@ -1,0 +1,4 @@
+Refer to the activity. In the PT Activity, you issued the show ip route command? What is represented by this command and why does the router store these entries?
+
+The show IP route command is used to show the router's routing table. This is the list of all networks that the router can reach, there metric (the router's preference for them), and how to get there.
+These entries are stored in a router for making it easy and understand how a message should travel from which port. It indicating that the output shows the routing table and that the entries are the networks that the router can reach.

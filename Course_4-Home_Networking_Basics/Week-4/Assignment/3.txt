@@ -1,0 +1,7 @@
+How will it be implemented in your home network?
+
+Windows Defender Antivirus  It provides the standard antivirus features, such as real-time protection against viruses and malware, as well as cloud-backed scanning and updating mechanisms.
+Windows Defender Firewall helps  home network by securing your Windows device by filtering the network traffic permitted to enter or exit your device.
+Network protection expands the scope of Windows Defender Smart Screen to block attempts to access possibly malicious websites from all browsers, by blocking all outbound HTTP and HTTPS traffic to domains with a low reputation.
+Windows Defender's App and Browser Control section gives you control over some key settings.
+Basic parental controls allow you to define when your kids can use their devices and the websites they can visit, as well as getting reports on their activities.

@@ -1,0 +1,7 @@
+Verification: Enter the results of your ipconfig/all or ifconfig command from PCA?
+
+FastEthernet0 Connection: (default port)
+Link-local IPv6 Address.........: FE80::20A:F3FF:FE34:1A4D
+IP Address......................: 192.168.1.1
+Subnet Mask.....................: 255.255.255.0
+Default Gateway.................: 0.0.0.0

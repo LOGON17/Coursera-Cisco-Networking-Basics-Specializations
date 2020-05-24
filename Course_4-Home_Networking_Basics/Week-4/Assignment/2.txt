@@ -1,0 +1,3 @@
+What is the purpose of the tool?
+
+Windows Defender Antivirus  runs in background monitoring your computer for virus and malware in real-time, and take cleanup actions when it detects virus, malware ,spyware or any other threats. 

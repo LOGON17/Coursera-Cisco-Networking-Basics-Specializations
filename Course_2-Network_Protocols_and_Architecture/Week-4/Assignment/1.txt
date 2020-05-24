@@ -1,0 +1,3 @@
+What IPv4 network address and subnet mask combination did you choose and why?
+
+I chose 192.0.0.0/24 IPv4 and 255.255.255.0 subnet mask which belongs to Class C type. I chose it because its the best option for small networks.

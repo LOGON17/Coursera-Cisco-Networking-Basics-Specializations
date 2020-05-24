@@ -1,0 +1,6 @@
+The default gateway on the Home Router was provided.
+
+What type of address is the default gateway on the Home Router?
+Why is it different than the addresses used on the home network?
+When would this address be used?
+The default gateway on the Home Router is the private IP address assigned to the home router. It is the address used to communicate with a local home networkIt is different than the addresses used on the home network because it is the link and intermediary between the external network and the home network. Traffic meant for hosts that are not on the home network are sent there first.It is an interface IP address.The address is used when information is transmitted between different networks.

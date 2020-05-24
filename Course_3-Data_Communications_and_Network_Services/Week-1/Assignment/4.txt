@@ -1,0 +1,6 @@
+Part 1: Why was PC2 not able to connect?
+
+Part 2: What should be done to fix the problem?
+
+1.because there was not any connection
+2.have to connect it to lan

@@ -1,0 +1,6 @@
+Part 1: Why was PC1 not able to connect?
+
+Part 2: What should be done to fix the problem?
+
+1.because for pc1 described to use static not DHCP
+2.change mode to DHCP

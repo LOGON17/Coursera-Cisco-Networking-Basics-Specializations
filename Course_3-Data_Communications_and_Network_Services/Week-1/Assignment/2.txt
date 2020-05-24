@@ -1,0 +1,6 @@
+Part 1: Why was PC0 not able to connect to the network?
+
+Part 2: What can be done to fix PC0?
+
+1.because it hase not ip address
+2.use automatic private ip address

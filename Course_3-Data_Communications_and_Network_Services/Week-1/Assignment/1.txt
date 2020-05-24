@@ -1,0 +1,9 @@
+Part 1: Was an IPv4 address assigned to PC0?
+
+Part 2: PCs can have different types of addresses. Use the Internet to look up the address that starts with 169.254.x.x. What is the name of this type of address?
+
+Part 3: When is the type of address listed in Part 2 assigned to a host?
+
+1.no ,pc0 has not ipv4.
+2.Automatic Private IP address
+3. An IP in this range means that the computer cannot see the network. A computer using DHCP needs to have an external server tell it what IP address to use
